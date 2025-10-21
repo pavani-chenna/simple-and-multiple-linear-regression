@@ -76,6 +76,6 @@ This project demonstrates both *Simple Linear Regression* and *Multiple Linear R
 
 ## 👨‍💻 Author
 
-- [Your Name Here]
-- GitHub: [github.com/yourhandle](https://github.com/yourhandle)
-- LinkedIn: [linkedin.com/in/yourhandle]
+- Pavani Chenna
+
+- LinkedIn: [linkedin.com/in/yourhandle](www.linkedin.com/in/pavani-chenna)
