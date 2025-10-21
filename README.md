@@ -78,4 +78,4 @@ This project demonstrates both *Simple Linear Regression* and *Multiple Linear R
 
 - Pavani Chenna
 
-- LinkedIn: [linkedin.com/in/yourhandle](www.linkedin.com/in/pavani-chenna)
+- LinkedIn: [(www.linkedin.com/in/pavani-chenna)]
